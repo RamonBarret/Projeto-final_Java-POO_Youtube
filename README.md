@@ -1,14 +1,13 @@
 ## Projeto 	&#10132;  <img alt="youtube" src=".github/youtube.png" />
+
 ### Java POO - Curso em Vídeo ☕▶
+
+<p align="justify">Projeto desenvolvido nas últimas aulas do Curso em Vídeo - Java POO. Com esse Exercício Final foi possível colocar em prática as bases da Orientação a objetos, são elas: <strong>Abstração</strong>, <strong>Encapsulamento</strong>, <strong>Herança</strong> e <strong>Polimorfismo</strong>. Conseguindo representar em código dinâmico a funcionalidade da plataforma Youtube em ação (modelo apenas de representação).
+</p>
 
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
   <img alt="java" src=".github/java.PNG" />
-</p>
-
-### Exercício final + certificado 👨🏽‍🎓
-
-<p align="justify">Projeto desenvolvido nas últimas aulas do Curso em Vídeo - Java POO. Com esse exercício final foi possível colocar em prática as bases da Orientação a objetos, são elas: <strong>Abstração</strong>, <strong>Encapsulamento</strong>, <strong>Herança</strong> e <strong>Polimorfismo</strong>. Conseguindo representar em código dinâmico a funcionalidade da plataforma Youtube em ação (modelo apenas de representação).
 </p>
   
 ## Compilação 👨🏽‍💻
