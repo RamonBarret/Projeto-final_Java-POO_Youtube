@@ -1,9 +1,8 @@
-## Projeto Youtube
+## Projeto Youtube <img alt="youtube" src=".github/youtube.png" />
 
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
-  <img alt="ufc" src=".github/youtube.png" />
-  <img alt="ufc" src=".github/java.PNG" />
+  <img alt="java" src=".github/java.PNG" />
 </p>
 
 ### Java POO - Curso em Vídeo ☕▶
