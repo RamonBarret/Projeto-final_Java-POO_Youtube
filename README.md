@@ -1,4 +1,4 @@
-## Projeto Youtube <img alt="youtube" src=".github/youtube.png" />
+## Projeto =>  <img alt="youtube" src=".github/youtube.png" />
 
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
