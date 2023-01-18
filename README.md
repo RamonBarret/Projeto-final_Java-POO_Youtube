@@ -1,11 +1,10 @@
-## Projeto &#9758;  <img alt="youtube" src=".github/youtube.png" />
+## Projeto 	&#10132;  <img alt="youtube" src=".github/youtube.png" />
+### Java POO - Curso em Vídeo ☕▶
 
 <p align="center">
   <img alt="cursoemvideo" src=".github/cursoemvideo.png" />
   <img alt="java" src=".github/java.PNG" />
 </p>
-
-### Java POO - Curso em Vídeo ☕▶
 
 ### Exercício final + certificado 👨🏽‍🎓
 
